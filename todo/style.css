@@ -186,7 +186,6 @@ form input:hover,form input:focus{
 
 /** FOR THE CHECKED ITEMS **/
 
-/* every list for checked */
 .completed{
     /* border: 2px solid yellow; */
     background: linear-gradient(rgb(93, 33, 128), rgb(138, 69, 155));
